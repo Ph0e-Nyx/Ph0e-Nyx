@@ -8,7 +8,7 @@
 <h2>🚀 Languajes y herramientas de uso</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,bash,html,css,docker,git,gitlab,github,html,php,neovim,notion,obsidian,py,vscode" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,bash,html,css,docker,git,github,html,php,neovim,notion,obsidian,py,vscode" />
   </a>
 
 ```txt
