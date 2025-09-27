@@ -11,10 +11,5 @@
     <img src="https://skillicons.dev/icons?i=linux,kali,bash,html,css,docker,git,github,html,php,neovim,notion,obsidian,py,vscode" />
   </a>
 
-```txt
-Python       17 hrs 41 mins  █████████████████████░░░░   83.95 %
-Lua          1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-Neovim       55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-HTML         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-CSS          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-```
+![Ph0e-Nyx's Stats](https://github-readme-stats.vercel.app/api?username=Ph0e-Nyx&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
+![Ph0e-Nyx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ph0e-Nyx&theme=tokyonight&hide_border=true)
