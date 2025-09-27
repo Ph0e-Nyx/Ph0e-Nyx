@@ -1,7 +1,7 @@
 
 
 <h1>Hola! 👋, soy Ph0eNyx </h1>
-<p>Apasionada de la Cybersecurity & Ethical Hacking</p>
+<p>Apasionada de la Ciberseguridad & Hacking Ético</p>
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FuMTIwZGtkcjQzeTByems5NWVoc3IwNjdqMzJqZ21tdzdvZzZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GUIlE3bi84TOjGzSo1/giphy.gif" width="200"/>
 </div>
