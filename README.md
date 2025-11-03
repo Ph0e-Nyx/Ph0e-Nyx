@@ -7,6 +7,12 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FuMTIwZGtkcjQzeTByems5NWVoc3IwNjdqMzJqZ21tdzdvZzZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GUIlE3bi84TOjGzSo1/giphy.gif" width="200"/>
 </div>
 
+## 🛡️ Mi Especialización: Blue Team (Defensa & Forense)
+
+<p>
+Mi enfoque actual en Ciberseguridad se centra en el **Blue Team** (Equipo Azul), priorizando la **detección, defensa y respuesta a incidentes**. Mi objetivo a largo plazo es especializarme en **Informática Forense y Análisis de Malware** para la investigación y preservación de evidencia digital.
+</p>
+
 <!-- Lenguaje GitHub-->
 <h2>🚀 Languajes y herramientas de uso</h2>
 <p align="center">
