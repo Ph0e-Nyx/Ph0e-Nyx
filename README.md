@@ -10,7 +10,7 @@
 ## 🛡️ Mi Especialización: Blue Team (Defensa & Forense)
 
 <p>
-Mi enfoque actual en Ciberseguridad se centra en el **Blue Team** (Equipo Azul), priorizando la **detección, defensa y respuesta a incidentes**. Mi objetivo a largo plazo es especializarme en **Informática Forense y Análisis de Malware** para la investigación y preservación de evidencia digital.
+Mi enfoque actual en Ciberseguridad se centra en el **Blue Team** (Equipo Azul), priorizando la *detección, defensa y respuesta a incidentes*. Mi objetivo a largo plazo es especializarme en *Informática Forense y Análisis de Malware* para la investigación y preservación de evidencia digital.
 </p>
 
 <!-- Lenguaje GitHub-->
