@@ -20,6 +20,14 @@ Mi enfoque actual en Ciberseguridad se centra en el 'Blue Team' (Equipo Azul), p
     <img src="https://skillicons.dev/icons?i=linux,kali,bash,html,css,docker,git,github,html,php,neovim,notion,obsidian,py,vscode" />
   </a>
 
+<!-- Progreso TryHackme-->
+<h2>🔥 Progreso TryHackme</h2>
+<p align="center">
+  <a href="https://tryhackme.com/p/Ph0eNyx">
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5626038" style='border:none;'></iframe>
+  </a>
+
+  
 <!-- Github Stats-->
 <h2>📈 GitHub Stats</h2>
 <div align="center">
