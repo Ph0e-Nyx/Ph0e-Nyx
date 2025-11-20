@@ -24,7 +24,7 @@ Mi enfoque actual en Ciberseguridad se centra en el 'Blue Team' (Equipo Azul), p
 <h2>🔥 Progreso TryHackme</h2>
 <p align="center">
   <a href="https://tryhackme.com/p/Ph0eNyx">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Ph0eNyx.png" alt="Your Image Badge" />
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5626038" style='border:none;'></iframe>
   </a>
 
   
