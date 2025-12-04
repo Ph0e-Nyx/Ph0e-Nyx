@@ -112,17 +112,26 @@
 
 <br/>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats - Profile Summary Cards (Más estable y confiable) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ph0e-Nyx&theme=tokyonight&show_icons=true&hide_border=true&count_private=false&bg_color=0D1117&title_color=0EA5E9&icon_color=3B82F6&text_color=E2E8F0" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ph0e-Nyx&theme=tokyonight&hide_border=true&background=0D1117&stroke=0EA5E9&ring=3B82F6&fire=6366F1&currStreakLabel=0EA5E9" height="170" />
+  <!-- Resumen detallado de perfil -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ph0e-Nyx&theme=tokyonight" width="95%" />
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
+<!-- Estadísticas y lenguajes -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ph0e-Nyx&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=0EA5E9&line=3B82F6&point=6366F1" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ph0e-Nyx&theme=tokyonight" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ph0e-Nyx&theme=tokyonight" height="200" />
+</div>
+
+<br/>
+
+<!-- Tiempo productivo y commits por repo -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ph0e-Nyx&theme=tokyonight&utcOffset=1" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ph0e-Nyx&theme=tokyonight" height="200" />
 </div>
 
 <br/>
