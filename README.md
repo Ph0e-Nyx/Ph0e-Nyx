@@ -35,14 +35,15 @@
 
 🔭 Actualmente mi enfoque está en el **Blue Teaming**, priorizando la detección, defensa y respuesta a incidentes.
 
-🎯 Mi objetivo a corto plazo es especializarme en **Informática Forense** y **Análisis de Malware** para la investigación y preservación de evidencia digital.
+🎯 Ya he cumplido mi objetivo de especializarme en **Informática Forense**, dominando la investigación y preservación de evidencia digital. Ahora continúo profundizando en **Análisis de Malware** y técnicas avanzadas de DFIR.
 
 💡 **Áreas de Interés:**
 - 🔍 Threat Hunting & Detection Engineering
 - 🧪 Malware Analysis & Reverse Engineering  
 - 📊 SIEM & Log Analysis
-- 🚨 Incident Response & Forensics
+- �️ Incident Response & Digital Forensics
 - 🔐 Security Operations Center (SOC)
+- 🕵️‍♀️ Memory Forensics & Artifact Analysis
 
     </td>
     <td width="40%" align="center" valign="center">
@@ -62,34 +63,55 @@
 <h2 align="center">🔧 Arsenal Tecnológico</h2>
 
 <div align="center">
-  
-  **🖥️ Sistemas Operativos**
-  
-  <img src="https://skillicons.dev/icons?i=linux,kali,windows&theme=dark" height="50" alt="Sistemas" />
-  
-  <br/><br/>
-  
-  **💻 Lenguajes & Scripting**
-  
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,php,html,css,javascript&theme=dark" height="50" alt="Lenguajes" />
-  
-  <br/><br/>
-  
-  **🛠️ Herramientas & Plataformas**
-  
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vim,notion,obsidian&theme=dark" height="50" alt="Herramientas" />
-  
-  <br/><br/>
-  
-  **🔐 Blue Team Tools**
-  
-  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-  ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-  ![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
-  ![Volatility](https://img.shields.io/badge/Volatility-FF6B6B?style=for-the-badge&logo=memory&logoColor=white)
-  ![Autopsy](https://img.shields.io/badge/Autopsy-4A90E2?style=for-the-badge&logo=forensics&logoColor=white)
-  
+
+```console
+┌──(ph0enyx㉿blue-team)-[~/arsenal]
+└─$ ls -la defensive_toolkit/
+```
+
 </div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 SIEM & Log Analysis
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005EB8?style=flat-square&logo=wazuh&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+
+### 🕵️ Digital Forensics & DFIR
+![Autopsy](https://img.shields.io/badge/Autopsy-4A90E2?style=flat-square&logo=forensics&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility_3-FF6B6B?style=flat-square&logo=memory&logoColor=white)
+![FTK](https://img.shields.io/badge/FTK_Imager-1E3A8A?style=flat-square&logo=forensics&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+### 🛡️ Threat Detection
+![YARA](https://img.shields.io/badge/YARA-001F3F?style=flat-square&logo=yara&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-FF0000?style=flat-square&logo=snort&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logo=suricata&logoColor=white)
+![TheHive](https://img.shields.io/badge/TheHive-FFA500?style=flat-square&logo=thehive&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Programming & Scripting
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=javascript,php,go,rust&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=bash,powershell,perl,ruby&theme=dark" height="40"/>
+
+### 🖥️ Sistemas & Plataformas
+<img src="https://skillicons.dev/icons?i=linux,kali,windows&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=vscode,vim,regex&theme=dark" height="40"/>
+
+### 🌐 Web Technologies
+<img src="https://skillicons.dev/icons?i=html,css,nodejs&theme=dark" height="40"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -144,20 +166,21 @@
 <!-- Current Focus -->
 <h2 align="center">🎯 Enfoque Actual</h2>
 
-<div align="center">
+<div align="left">
   
 ```yaml
 current_learning:
-  - "Advanced Threat Hunting Techniques"
-  - "Memory Forensics with Volatility 3"
-  - "YARA Rules Development"
-  - "Malware Reverse Engineering"
-  - "SIEM Detection Engineering"
+  - "Advanced Memory Forensics & Malware Analysis"
+  - "Threat Hunting con SIEM (Splunk, Elastic, Wazuh)"
+  - "Análisis Forense de Sistemas Windows & Linux"
+  - "Incident Response & Digital Evidence Preservation"
+  - "Detection Engineering & Custom YARA Rules"
 
 certifications_in_progress:
   - "BTL1 - Blue Team Level 1"
-  - "GCIH - GIAC Certified Incident Handler"
-  - "CHFI - Computer Hacking Forensic Investigator"
+  - "SAL1 - Security Analyst Level 1"
+  - "GCFA - GIAC Certified Forensic Analyst"
+  - "CDSA - Certified Defensive Security Analyst (HTB)"
 
 projects:
   - "Blue Shield Toolkit - Defensive Cybersecurity Arsenal"
