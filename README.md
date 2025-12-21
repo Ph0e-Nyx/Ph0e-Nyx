@@ -41,7 +41,7 @@
 - 🔍 Threat Hunting & Detection Engineering
 - 🧪 Malware Analysis & Reverse Engineering  
 - 📊 SIEM & Log Analysis
-- �️ Incident Response & Digital Forensics
+- 🚨 Incident Response & Digital Forensics
 - 🔐 Security Operations Center (SOC)
 - 🕵️‍♀️ Memory Forensics & Artifact Analysis
 
