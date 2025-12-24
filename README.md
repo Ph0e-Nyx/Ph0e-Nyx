@@ -35,7 +35,7 @@
 
 🔭 Actualmente mi enfoque está en el **Blue Teaming**, priorizando la detección, defensa y respuesta a incidentes.
 
-🎯 Ya he cumplido mi objetivo de especializarme en **Informática Forense**, dominando la investigación y preservación de evidencia digital. Ahora continúo profundizando en **Análisis de Malware** y técnicas avanzadas de DFIR.
+🎯 Estoy cumpliendo mi objetivo de especializarme en **Informática Forense**, dominando la investigación y preservación de evidencia digital. Ahora continúo profundizando en **Análisis de Malware** y técnicas avanzadas de DFIR.
 
 💡 **Áreas de Interés:**
 - 🔍 Threat Hunting & Detection Engineering
