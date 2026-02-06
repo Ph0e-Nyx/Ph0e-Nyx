@@ -96,7 +96,6 @@ Estos son algunos de los proyectos open-source que he desarrollado o en los que 
 
 <div align="center">
 
-  <!-- 📈 Activity Graph (HollowSec Theme) -->
   <h3>🧬 Actividad Sísmica</h3>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ph0e-Nyx&bg_color=1a1a2e&color=e0e0e0&line=4a4a6a&point=f0f0f0&area=true&hide_border=true" alt="Ph0eNyx Activity Graph" />
