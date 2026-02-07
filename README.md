@@ -114,7 +114,7 @@ Soy **Owner** de **HollowSec**, una comunidad de Discord dedicada a la cibersegu
 <div align="center">
   
   [![Discord](https://img.shields.io/badge/Discord-HollowSec-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hollowsec)
-  [![Portfolio](https://img.shields.io/badge/Web-Portfolio-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ph0e-nyx.github.io/Ph0enyx/Ph0enyx.html)
+  [![Portfolio](https://img.shields.io/badge/Web-Portfolio-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ph0e-nyx.github.io/ph0enyx/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 </div>
