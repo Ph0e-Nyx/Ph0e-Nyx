@@ -9,10 +9,6 @@
 </div>
 
 <div align="center">
-  <img src="assets/banner-ph0enyx.png" width="80%" alt="Ph0eNyx Digital Phoenix Banner" />
-</div>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=26&duration=4000&pause=1000&color=a78bfa&center=true&vCenter=true&width=800&lines=Initializing+Ph0eNyx.sys...;Scanning+for+Intrusions...;Blue+Team+Specialist+Identified;Protector+of+Digital+Horizons;Digital+Forensics+%26+Incident+Response" alt="Typing SVG" />
   </a>
