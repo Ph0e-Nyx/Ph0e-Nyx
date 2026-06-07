@@ -3,7 +3,7 @@
 </a>
 
 <div align="center">
-  <!-- Recuerda cambiar 'tu-usuario' por tu nombre real de GitHub en estas 3 URLs -->
+
   <a href="https://github.com/tu-usuario?tab=repositories"><img alt="Stars" title="Stars Profile" src="https://img.shields.io/badge/STARS-15-000000?style=for-the-badge&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiPjwvcGF0aD48L3N2Zz4=" /></a>
   &nbsp;
   <a href="https://github.com/tu-usuario?tab=repositories"><img alt="Forks" title="Forks Repository" src="https://img.shields.io/badge/FORKS-4-000000?style=for-the-badge&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTUgNS4zNzJ2Ljg3OGMwIC40MTQuMzM2Ljc1Ljc1Ljc1aDQuNWEuNzUuNzUgMCAwIDAgLjc1LS43NXYtLjg3OGEyLjI1IDIuMjUgMCAxIDEgMS41IDB2Ljg3OGEyLjI1IDIuMjUgMCAwIDEtMi4yNSAyLjI1aC0xLjV2Mi4xMjhhMi4yNTEgMi4yNTEgMCAxIDEtMS41IDBWOC41aC0xLjVBMi4yNSAyLjI1IDAgMCAxIDMuNSA2LjI1di0uODc4YTIuMjUgMi4yNSAwIDEgMSAxLjUgMFpNNSAzLjI1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBabTYuNzUuNzVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm0tMyA4Ljc1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBaIj48L3BhdGg+PC9zdmc+" /></a>
@@ -12,7 +12,7 @@
 </div>
 <br>
 
-<!-- SEPARADOR: ABOUT ME -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=CONOCE%20AL%20DEFENSOR&fontColor=000000&height=50&fontSize=30" width="100%"/>
 </div>
@@ -38,7 +38,7 @@
 <br clear="all" />
 <hr style="border: 1px solid #333; margin-top: 15px; margin-bottom: 15px;">
 
-<!-- SEPARADOR: CONNECT -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=CONNECT&fontColor=000000&height=50&fontSize=30" width="100%"/>
 </div>
@@ -60,7 +60,7 @@
 
 <br><br>
 
-<!-- SEPARADOR: CONTRIBUTIONS -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=CONTRIBUTIONS&fontColor=000000&height=50&fontSize=30" width="100%"/>
 </div>
@@ -74,7 +74,6 @@
 
 <br><br>
 
-<!-- SEPARADOR: ARSENAL -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=ARSENAL%20DE%20GUERRA&fontColor=000000&height=50&fontSize=30" width="100%"/>
 </div>
