@@ -18,28 +18,25 @@
 </div>
 <br>
 
-<img src="assets/loading.gif" width="210" align="left" style="margin-right: 15px; border-radius: 10px;">
-
 <div align="justify">
+  <img src="assets/loading.gif" width="220" align="left" style="margin-right: 40px; margin-top: 5px; border-radius: 10px;">
   <h3>¡Hola! Soy Ph0eNyx</h3>
   Soy un Analista <b>Blue Team</b> y especialista en <b>Forense Digital (DFIR)</b>. Mi misión principal es transformar la vulnerabilidad en fortaleza y los ataques en inteligencia accionable. Con una base sólida en la disciplina y visión técnica, me dedico a fortificar activos críticos contra las amenazas persistentes del ciberespacio.
-  <br><br>
-  
-  <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
-  
-  <!-- Imagen minimalista blanca -->
-  <img src="https://img.icons8.com/ios-filled/256/FFFFFF/cyber-security.png" width="150" align="right" style="margin-left: 15px;">
-  
-  <h3>Enfoque Principal (Blue Team Ops)</h3>
-  <a href="#"><img src="https://img.shields.io/badge/Digital_Forensics-000000?style=for-the-badge&logo=linux&logoColor=white" valign="middle"></a>&nbsp; Análisis de memoria, discos y recuperación de evidencias críticas.<br>
-  <a href="#"><img src="https://img.shields.io/badge/Incident_Response-000000?style=for-the-badge&logo=elastic&logoColor=white" valign="middle"></a>&nbsp; Contención, erradicación y recuperación de sistemas comprometidos.<br>
-  <a href="#"><img src="https://img.shields.io/badge/Threat_Hunting-000000?style=for-the-badge&logo=splunk&logoColor=white" valign="middle"></a>&nbsp; Búsqueda proactiva de adversarios ocultos en la infraestructura.
-  
-  <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
 </div>
 
-<br clear="left"/>
-<br clear="right"/>
+<br clear="all" />
+<hr style="border: 1px solid #333; margin-top: 15px; margin-bottom: 15px;">
+
+<div align="justify">
+  <img src="https://img.icons8.com/ios-filled/256/FFFFFF/cyber-security.png" width="160" align="right" style="margin-left: 40px;">
+  <h3>Enfoque Principal (Blue Team Ops)</h3>
+  <a href="#"><img src="https://img.shields.io/badge/Digital_Forensics-000000?style=for-the-badge&logo=linux&logoColor=white" valign="middle"></a>&nbsp; Análisis de memoria, discos y recuperación de evidencias críticas.<br><br>
+  <a href="#"><img src="https://img.shields.io/badge/Incident_Response-000000?style=for-the-badge&logo=elastic&logoColor=white" valign="middle"></a>&nbsp; Contención, erradicación y recuperación de sistemas comprometidos.<br><br>
+  <a href="#"><img src="https://img.shields.io/badge/Threat_Hunting-000000?style=for-the-badge&logo=splunk&logoColor=white" valign="middle"></a>&nbsp; Búsqueda proactiva de adversarios ocultos en la infraestructura.
+</div>
+
+<br clear="all" />
+<hr style="border: 1px solid #333; margin-top: 15px; margin-bottom: 15px;">
 
 <!-- SEPARADOR: CONNECT -->
 <div align="center">
